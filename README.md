@@ -1,16 +1,7 @@
 # mobanking_clone
 
-A new Flutter project.
+#Screenshots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1662627729](https://user-images.githubusercontent.com/59753519/189091217-899b596f-2988-4fa6-bf2a-e30730810c91.png)
+![Screenshot_1662627740](https://user-images.githubusercontent.com/59753519/189091219-2a5dcf7c-bd6f-4a78-9148-f3de04c2812e.png)
+![Screenshot_1662627766](https://user-images.githubusercontent.com/59753519/189091218-5d3d34ea-d2d2-422b-9202-3a79c8b2dcc4.png)
